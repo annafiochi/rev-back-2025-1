@@ -1,0 +1,17 @@
+{
+  "name": "rev-back-2025-1",
+  "version": "1.0.0",
+  "description": "Projeto revisão back-end SENAI 2025",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "senai",
+    "back-end",
+    "node.js",
+    "java.script"
+  ],
+  "author": "anna fiochi",
+  "license": "MIT"
+}
